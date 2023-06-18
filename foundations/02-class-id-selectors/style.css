@@ -1,0 +1,24 @@
+.container{
+    background-color: white;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.odd {
+    background-color: rgba(255, 0, 0, 0.192);
+}
+
+.even#P2 {
+    font-size: 36px;
+    color: blue;
+}
+
+
+.odd#P3{
+    font-size: 24px;
+}
+
+.even#N4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
