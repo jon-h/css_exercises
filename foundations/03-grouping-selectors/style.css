@@ -1,0 +1,14 @@
+.master{
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+#b1.master{
+    background-color: black;
+    color: white;
+}
+
+#b2.master{
+    background-color: yellow;
+    color:black;
+}
